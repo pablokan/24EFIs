@@ -1,0 +1,140 @@
+{
+  "jugadores": [
+    {
+      "ID": "01",
+      "name": "Rodrigo Salazar",
+      "age": "22/05/1998",
+      "sueldo": 36000,
+      "situacion": "Libre",
+      "posicion": "defensor",
+      "precio": 100000
+    },
+    {
+      "ID": "02",
+      "name": "Castolo Juan",
+      "age": "18/10/1998",
+      "sueldo": 55000,
+      "situacion": "En equipo",
+      "posicion": "delantero",
+      "precio": 545000
+    },
+    {
+      "ID": "03",
+      "name": "Rodriguez Julian",
+      "age": "03/06/1996",
+      "sueldo": 42000,
+      "situacion": "En equipo",
+      "posicion": "medio",
+      "precio": 330000
+    },
+    {
+      "ID": "05",
+      "name": "Lopez Nicolas",
+      "age": "27/09/1994",
+      "sueldo": 23000,
+      "situacion": "En equipo",
+      "posicion": "delantero",
+      "precio": 810000
+    },
+    {
+      "ID": "06",
+      "name": "Liam Neeson",
+      "age": "14/05/2000",
+      "sueldo": 22000,
+      "situacion": "En equipo",
+      "posicion": "delantero",
+      "precio": 152000
+    },
+    {
+      "ID": "07",
+      "name": "Carlos Perez",
+      "age": "23/04/1993",
+      "sueldo": 54000,
+      "situacion": "En equipo",
+      "posicion": "delantero",
+      "precio": 100000
+    },
+    {
+      "ID": "08",
+      "name": "Tomas Garcia",
+      "age": "30/08/1992",
+      "sueldo": 38500,
+      "situacion": "En equipo",
+      "posicion": "medio",
+      "precio": 390000
+    },
+    {
+      "ID": "09",
+      "name": "Mario Gutierrez",
+      "age": "05/07/1990",
+      "sueldo": 33000,
+      "situacion": "En equipo",
+      "posicion": "defensor",
+      "precio": 100000
+    },
+    {
+      "ID": "10",
+      "name": "Martin Bravo",
+      "age": "28/03/1995",
+      "sueldo": 49000,
+      "situacion": "En equipo",
+      "posicion": "medio",
+      "precio": 168500
+    },
+    {
+      "ID": "11",
+      "name": "Pedro Alvarado",
+      "age": "01/11/1989",
+      "sueldo": 45000,
+      "situacion": "Libre",
+      "posicion": "arquero",
+      "precio": 47000
+    },
+    {
+      "ID": "12",
+      "name": "Juan Lopez",
+      "age": "19/12/1991",
+      "sueldo": 35000,
+      "situacion": "Libre",
+      "posicion": "delantero",
+      "precio": 99000
+    },
+    {
+      "ID": "13",
+      "name": "Esteban Martinez",
+      "age": "07/09/1998",
+      "sueldo": 37000,
+      "situacion": "Libre",
+      "posicion": "defensor",
+      "precio": 67000
+    },
+    {
+      "ID": "14",
+      "name": "Fernando Gonzalez",
+      "age": "17/01/2007",
+      "sueldo": 39000,
+      "situacion": "Libre",
+      "posicion": "enganche",
+      "precio": 160000
+    },
+    {
+      "ID": "15",
+      "name": "Miguel Herrera",
+      "age": "29/11/1990",
+      "sueldo": 41000,
+      "situacion": "Libre",
+      "posicion": "defensor",
+      "precio": 40000
+    },
+    {
+      "ID": "16",
+      "name": "Daniel Ortega",
+      "age": "11/04/1999",
+      "sueldo": 53000,
+      "situacion": "Libre",
+      "posicion": "enganche",
+      "precio": 425000
+    }
+  ],
+  "patrimonio": 4555000
+}

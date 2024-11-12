@@ -1,0 +1,6 @@
+-validacion de contraseña
+-validacion de mail(---@--.com)
+-validacion de tarjetas(deb- cred)
+-barra de busqueda
+-metodo de creacion de lista carro compra
+-

@@ -1,0 +1,5 @@
+Efi.py es el proyecto principal de la simulacion de una mesa de control, con la posibilidad de poder agregar y eliminar jugadores en la misma pagina y que igualmente queden cargados en una base de datos.
+
+db.py es un archivo que funciona para generar la base de datos y la conexion con el proyecto principal, asi almacenarlos.
+
+Bellandi, Torres, Quiroga, Delfino M2
