@@ -18,12 +18,12 @@ class JugadorDB:
         # Ejecuta el comando SQL para crear la tabla "jugadores" con las columnas especificadas
         self.cursor.execute('''
             CREATE TABLE IF NOT EXISTS jugadores (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,  # ID autoincremental único para cada jugador
-                nombre TEXT,                            # Nombre del jugador
-                dorsal INTEGER,                         # Número del dorsal del jugador
-                minutos INTEGER,                        # Minutos jugados
-                puntos INTEGER,                         # Puntos anotados
-                faltas INTEGER                          # Faltas cometidas
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                nombre TEXT,                         
+                dorsal INTEGER,                      
+                minutos INTEGER,                     
+                puntos INTEGER,                      
+                faltas INTEGER                       
             )
         ''')
         # Guarda los cambios en la base de datos

@@ -2,6 +2,8 @@ import reflex as rx
 from rxconfig import config
 import sqlite3
 
+# kan
+from .db import JugadorDB
 
 
 
@@ -141,10 +143,14 @@ class State(rx.State):
         if self.puntos_equipo_b > 0:
             self.puntos_equipo_b -= puntos
 
+# kan
+    def crear_bd(self):
+        d = JugadorDB("jugadores.db")
+        d.create_table()
 
 
-
-# Front-end: Función principal que crea la interfaz
+# kan
+@rx.page(on_load=State.crear_bd)
 def index():
     page = rx.box(
         rx.heading('Mesa de Control De Basquet'),  # Título principal
